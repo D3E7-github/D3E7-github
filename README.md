@@ -1,5 +1,7 @@
 
-<h1 style="text-align:center">Hey, i am <a href="https://t.me/D3E7tg">Roman</a>!</h1>
+<h1 align="center">
+    Hey, i am <a href="https://t.me/D3E7tg">Roman</a>!
+</h1>
 
 <p align="center">
     <a><img src="https://i.imgur.com/01kft1k.jpg" width=400 height=200 alt="hero"></a>
