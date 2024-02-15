@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**D3E7-github/D3E7-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div style="text-align:center">Hey, i am [Roman](https://t.me/D3E7tg)</div>
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/01kft1k.jpg" height=225 width=100% alt="hero">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- <a href="https://en.wikipedia.org/wiki/Moscow" title="Moscow"><img src="images/point.png"></a> I'm living in Moscow, Russia <a><img align=right src="images/img.gif" width=450 height=230></a>
+- I want to be a <a href="https://www.python.org/" title="Python"><img src="images/python.png "></a> developer 
+- <img src="images/wow.png" alt="World of Warcraft"> WoW & RPG & D&D enjoyer 
+- Hurting myself using the Light IDE style 
+- Pelmeny break > coffee break
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+```python
+ROMAN = {
+    'Age': [24],
+    'Scope': ['Backend Developer'],
+    'Frameworks': ['Django','FAST-API'],
+    'Family status': ['Single(ton)'],
+    'Books': ['Dark Fantasy','Fantasy','Horror','Mystic']
+}
+```
